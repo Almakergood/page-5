@@ -1,2 +1,2 @@
-setTimeout( () => location.reload(true), Math.random(17,21) *1000);
+setTimeout( () => location.reload(), 20000);
 console.log("js load 1");
